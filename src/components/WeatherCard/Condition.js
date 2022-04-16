@@ -6,10 +6,12 @@ const Condition = (props) => {
     font-family: "Fira Sans", sans-serif;
     font-size: 2.5rem;
     font-weight: 700;
+    color: black;
   `;
   const State = styled.h3`
     font-family: "Fira Sans", sans-serif;
     font-size: 1.2rem;
+    color: black;
   `;
 
   return (

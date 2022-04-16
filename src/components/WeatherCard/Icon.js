@@ -3,7 +3,7 @@ import styled from "@emotion/styled";
 
 const Icon = (props) => {
   const Icon = styled.img`
-    width: 40%;
+    width: 10%;
   `;
   return (
     <Icon className="Icon" src="./img/Mostly Cloud.png" alt="Weather Icon" />
